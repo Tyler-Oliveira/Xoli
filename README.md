@@ -1,5 +1,6 @@
 <a href="https://wa.me/525565659395">
-  <img alt="2026 World Cup Mexico City AI chatbot." src="app/(chat)/opengraph-image.png">
+  <img alt="2026 World Cup Mexico City AI chatbot." src="<img width="1280" height="670" alt="image" src="https://github.com/user-attachments/assets/df9a58cd-fc69-4b01-ab51-f9f20ccba0d6" />
+">
   <h1 align="center">Xoli</h1>
 </a>
 
